@@ -45,7 +45,7 @@
 
 .burger {
 	height: 16px;
-	background-color:rgb(59, 59, 59);
+	background-color:#3b3b3b;
 	display: block;
 	margin-bottom: 10px;
 }
@@ -84,13 +84,14 @@ h2 {
     font-size: 56px;
     font-weight: 300;
     letter-spacing: 3px;
-    background-color: rgb(255, 106, 0);
+    background-color: #ff6a00;
     color: rgb(255, 255, 255);
     padding: 15px;
     box-shadow: 10px 10px 25px #ff0000;
 }
 
 h3 {
-    font-size: 42px;
+    font-size: 35px;
     letter-spacing: 1px;
+    background-color: #676767;
 }
